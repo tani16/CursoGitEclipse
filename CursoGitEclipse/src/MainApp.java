@@ -5,8 +5,10 @@ public class MainApp {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hola");
-		System.out.println("Â¿Me has escuchado?");
-		System.out.println("Â¿QuÃ© tal?");
+		System.out.println("¿Me has escuchado?");
+		System.out.println("¿Qué tal?");
+		System.out.println("Muy bien");
+		
 	}
 
 }
